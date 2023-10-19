@@ -14,9 +14,9 @@
 2. `#{自分のアカウント名}/fbc-swr-practice` が作成されます。
 3. 作業 PC の任意の作業ディレクトリにて `git clone` してください。
 
-```
-$ git clone https://github.com/自分のアカウント名/fbc-swr-practice.git
-```
+   ``` bash
+   git clone https://github.com/自分のアカウント名/fbc-swr-practice.git
+   ```
 
 4. `cd fbc-swr-practice` でカレントディレクトリを変更してください。
 5. `npm start`でローカルサーバーを起動できます。
